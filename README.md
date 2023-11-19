@@ -7,14 +7,7 @@ This project aims to simulate and evaluate different scheduling algorithms, such
 Python 3.7 or higher
 
 ### Installation
-1. Clone the repository:
-```bash
-git clone https://github.com/your_username/scheduling-algorithms.git
-```
-2. Navigate into the project directory:
-```bash
-cd scheduling-algorithms
-```
+This project has no dependencies, so there's no installation. Simply clone the repository!
 
 ### Running the Simulation
 To run the simulation, execute the main.py script:
